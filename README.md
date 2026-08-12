@@ -63,18 +63,20 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 
 # 👋 Hey, I'm Sahil
 
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Deep+Learning;Building+Intelligent+AI+Systems;CSE+Student+@+Thapar+Institute" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=AI%2FML+Engineer+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Deep+Learning;Building+Intelligent+AI+Systems;CSE+%40+Thapar+Institute+of+Engineering+and+Technology+%28TIET%29" />
 
 </p>
 
-
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Sahil9914&label=Profile%20Views&style=for-the-badge&color=blue"/>
+
 </p>
 
+
+## 🧠 About Me
 
 
 ## 🧠 About Me
