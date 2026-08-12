@@ -215,17 +215,6 @@ Currently focusing on:
 
 
 
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sahil9914/Sahil9914/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
 
 
 ---
