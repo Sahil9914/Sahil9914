@@ -59,19 +59,20 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 <a href="mailto:sahilchalotra71@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p> -->
 
+
+
 # 👋 Hey, I'm Sahil
+
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+GenAI+Enthusiast;Building+with+LLMs+%26+RAG;Turning+Ideas+into+Intelligent+Systems;CSE+@+Thapar+Institute" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Deep+Learning;Building+Intelligent+AI+Systems;CSE+Student+@+Thapar+Institute" />
 
 </p>
 
 
 <p align="center">
-<a href="https://github.com/Sahil9914">
-<img src="https://komarev.com/ghpvc/?username=Sahil9914&style=for-the-badge&color=blue"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Sahil9914&label=Profile%20Views&style=for-the-badge&color=blue"/>
 </p>
 
 
@@ -79,81 +80,117 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 ## 🧠 About Me
 
 
-```python
-class AIEngineer:
+I am **Sahil Chalotra**, a Computer Science undergraduate at  
+**Thapar Institute of Engineering & Technology**.
 
-    def __init__(self):
-        self.name = "Sahil Chalotra"
-        self.role = "AI/ML Engineer"
-        self.education = "CSE @ Thapar Institute"
-        self.interests = [
-            "Generative AI",
-            "Large Language Models",
-            "RAG Systems",
-            "Deep Learning",
-            "Data Science"
-        ]
+I am passionate about **Artificial Intelligence, Machine Learning, and Generative AI**, with a focus on building intelligent systems using **Large Language Models, Retrieval Augmented Generation (RAG), and Deep Learning**.
 
-    def current_focus(self):
-        return "Building intelligent applications powered by AI"
+I enjoy transforming research ideas into practical AI applications and continuously exploring modern AI technologies to solve real-world problems.
 
+Currently focusing on:
 
-me = AIEngineer()
-print(me.current_focus())
-```
+- 🤖 Generative AI Applications
+- 🧠 Large Language Models (LLMs)
+- 🔎 Retrieval Augmented Generation (RAG)
+- 📊 Machine Learning & Data Science
+- 🚀 Building scalable AI systems
 
 
 
-## ⚡ What I Do
+---
+
+# 🛠️ Skills & Technologies
 
 
-```
-🤖 Build AI Applications
-🧠 Experiment with LLMs
-🔎 Create RAG Pipelines
-📊 Solve ML Problems
-🚀 Convert Research Ideas into Real Products
-```
+## 👨‍💻 Programming Languages
 
+<p>
 
-
-## 🛠️ My AI Toolkit
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,tensorflow,flask,fastapi,nodejs,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
 
 </p>
 
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+## 🤖 Artificial Intelligence & Machine Learning
+
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge"/>
+
+</p>
+
+
+
+## 🧠 Generative AI Stack
+
+
+<p>
+
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DB-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-grey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge"/>
 
 </p>
 
 
 
-## 🔬 Currently Exploring
+## ⚙️ Frameworks & Tools
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,nodejs,docker,aws,git,github" />
+
+</p>
+
+
+## 🗄️ Database
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</p>
+
+
+
+---
+
+# 🔬 Currently Exploring
 
 
 ```
-✨ Agentic AI
 ✨ Advanced RAG Architectures
-✨ AI Automation
-✨ Multimodal Models
-✨ Production ML Systems
+✨ AI Agents & Agentic Workflows
+✨ Multimodal AI
+✨ LLM Optimization
+✨ Production AI Systems
 ```
 
 
 
-## 📊 GitHub Journey
+---
+
+# 📊 GitHub Statistics
 
 
 <p align="center">
@@ -170,15 +207,26 @@ print(me.current_focus())
 </p>
 
 
+<p align="center">
 
-## 📈 Contribution Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil9914&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+# 📈 Contribution Activity
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil9914&theme=tokyo-night&hide_border=true"/>
 
 
 
-## 🤝 Let's Connect
+---
+
+# 🤝 Connect With Me
 
 
 <p align="center">
@@ -187,7 +235,8 @@ print(me.current_focus())
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+
+<a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -197,12 +246,6 @@ print(me.current_focus())
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### 🚀 Building the future with Artificial Intelligence
 
 </p>
-
-
-
-<h3 align="center">
-🚀 Building the future with Artificial Intelligence
-</h3>
