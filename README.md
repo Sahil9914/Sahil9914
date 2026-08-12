@@ -61,13 +61,17 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 
 
 
+
+
 # 👋 Hey, I'm Sahil
+
 
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=AI%2FML+Engineer+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Deep+Learning;Building+Intelligent+AI+Systems;CSE+%40+Thapar+Institute+of+Engineering+and+Technology+%28TIET%29" />
 
 </p>
+
 
 <p align="center">
 
@@ -76,15 +80,21 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 </p>
 
 
-## 🧠 About Me
+
+---
+
+# 🧠 About Me
 
 
 I am **Sahil Chalotra**, a Computer Science undergraduate at  
-**Thapar Institute of Engineering & Technology**.
+**Thapar Institute of Engineering and Technology (TIET)**.
+
 
 I am passionate about **Artificial Intelligence, Machine Learning, and Generative AI**, with a focus on building intelligent systems using **Large Language Models, Retrieval Augmented Generation (RAG), and Deep Learning**.
 
-I enjoy transforming research ideas into practical AI applications and continuously exploring modern AI technologies to solve real-world problems.
+
+I enjoy transforming research ideas into practical AI applications and exploring modern AI technologies to solve real-world problems.
+
 
 Currently focusing on:
 
@@ -92,7 +102,7 @@ Currently focusing on:
 - 🧠 Large Language Models (LLMs)
 - 🔎 Retrieval Augmented Generation (RAG)
 - 📊 Machine Learning & Data Science
-- 🚀 Building scalable AI systems
+- 🚀 Production-ready AI Systems
 
 
 
@@ -103,18 +113,19 @@ Currently focusing on:
 
 ## 👨‍💻 Programming Languages
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 
 </p>
 
 
 
-## 🤖 Artificial Intelligence & Machine Learning
+## 🤖 AI / ML
 
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge"/>
 
@@ -133,7 +144,8 @@ Currently focusing on:
 ## 🧠 Generative AI Stack
 
 
-<p>
+<p align="center">
+
 
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 
@@ -147,6 +159,7 @@ Currently focusing on:
 
 <img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge"/>
 
+
 </p>
 
 
@@ -154,21 +167,23 @@ Currently focusing on:
 ## ⚙️ Frameworks & Tools
 
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,nodejs,docker,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,nodejs,docker,aws,git,github"/>
 
 </p>
+
 
 
 ## 🗄️ Database
 
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 </p>
+
 
 
 
@@ -182,21 +197,14 @@ Currently focusing on:
 ✨ AI Agents & Agentic Workflows
 ✨ Multimodal AI
 ✨ LLM Optimization
-✨ Production AI Systems
+✨ Scalable AI Systems
 ```
 
 
 
 ---
 
-# 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil9914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-
-</p>
+# 🔥 GitHub Streak
 
 
 <p align="center">
@@ -206,11 +214,18 @@ Currently focusing on:
 </p>
 
 
+
+---
+
+# 🐍 Contribution Snake
+
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil9914&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://raw.githubusercontent.com/Sahil9914/Sahil9914/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
 
 
 ---
@@ -218,7 +233,11 @@ Currently focusing on:
 # 📈 Contribution Activity
 
 
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil9914&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 
 
@@ -229,14 +248,20 @@ Currently focusing on:
 
 <p align="center">
 
+
 <a href="https://linkedin.com">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 
 <a href="mailto:your-email@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
 </a>
+
 
 </p>
 
@@ -244,6 +269,6 @@ Currently focusing on:
 
 <p align="center">
 
-### 🚀 Building the future with Artificial Intelligence
+🚀 Building the future with Artificial Intelligence
 
 </p>
