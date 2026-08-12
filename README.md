@@ -79,9 +79,6 @@ CS undergrad @ Thapar Institute of Engineering & Technology, focused on Generati
 ## 🧠 About Me
 
 
-## 🧠 About Me
-
-
 I am **Sahil Chalotra**, a Computer Science undergraduate at  
 **Thapar Institute of Engineering & Technology**.
 
