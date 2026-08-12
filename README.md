@@ -195,7 +195,7 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil9914&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahil9914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
 
 </p>
 
@@ -209,10 +209,9 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil9914&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil9914&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
-
 
 
 ---
